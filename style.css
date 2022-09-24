@@ -20,22 +20,24 @@
     
 }
 .container-1-profile-box-mic{
-    margin-left: 5px;
+    margin-left: 292px;
     height: 15px;
     background-color: white;
     border-radius: 10px;
+    margin-top: 12px;
 }
 .name{
-    padding-top: 20px;
+   
     color: white;
     margin-left: 10px;
+    padding-bottom: 10px;
 }
 .profile{
     height: 100px;
     width: 100px;
     border-radius: 50px;
-    margin-left: 85px;
-    margin-top: 30px;
+    margin-left: 105px;
+    margin-top: 8px;
 }
 .container-2-information{
     background-color: #ffffff;
