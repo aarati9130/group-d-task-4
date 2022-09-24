@@ -106,3 +106,51 @@ b{
     border-radius: 10px;
     margin-: 0px;
 }
+
+
+.card-container {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 30px;
+    padding: 10px;
+}
+
+.img1{
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+ 
+
+.img1:hover{
+   background-color: gray;
+   border-radius: 50%;
+}
+
+.img2{
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+ 
+.img2:hover{
+   background-color: gray;
+   border-radius: 50%;
+}
+
+.img3{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 50%;
+}
+
