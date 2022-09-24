@@ -3,9 +3,10 @@
     background-color: rgba(0, 0, 0, 0.852);
     height: 650px;
     width: 100%;
+    margin-top: 10px;
 }
 .container-1-profile{
-   margin-left: 0px;
+   margin-top: 10px;
 }
 .margin{
     margin-left: 70px;
@@ -29,13 +30,52 @@
     color: white;
     margin-left: 10px;
 }
-.container-2-information{
-    background-color: yellow;
-}
 .profile{
     height: 100px;
     width: 100px;
     border-radius: 50px;
     margin-left: 85px;
     margin-top: 30px;
+}
+.container-2-information{
+    background-color: #ffffff;
+    width: 330px;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 250px;
+    border-radius: 15px;
+}
+.icon-container2{
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+b{
+    margin-left: 10px;
+    font-size: 18px;
+}
+.header-2{
+    display: flex;
+    margin-top: 20px;
+}
+.cross{
+    margin-left: 200px;
+}
+.container-2-list{
+    display: flex;
+    margin-top: 40px;
+}
+.container-2-list-details{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.font-container2-details{
+    font-family: serif;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.font-container2-details2{
+    font-size: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
 }
