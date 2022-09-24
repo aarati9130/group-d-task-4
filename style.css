@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.852);
+    height: 650px;
+    width: 100%;
+}
+.container-1-profile{
+   margin-left: 0px;
+}
+.margin{
+    margin-left: 70px;
+}
+.container-1-profile-box{
+    height: 180px;
+    width: 320px;
+    background-color: gray;
+    margin: 8px;
+    border-radius: 10px;
+    
+}
+.container-1-profile-box-mic{
+    margin-left: 5px;
+    height: 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+.name{
+    padding-top: 20px;
+    color: white;
+    margin-left: 10px;
+}
+.container-2-information{
+    background-color: yellow;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 85px;
+    margin-top: 30px;
+}
