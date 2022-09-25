@@ -47,7 +47,7 @@
     width: 330px;
     height: 550px;
     margin-top: 20px;
-    margin-left: 250px;
+    margin-left: 150px;
     border-radius: 15px;
 }
 .icon-container2{
@@ -77,7 +77,7 @@ b{
 .font-container2-details{
     font-family: serif;
     font-size: 15px;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 .font-container2-details2{
     font-size: 10px;
@@ -86,45 +86,59 @@ b{
 }
 .footer-image{
     height: 25px;
+    
 }
 .footer{
+    width: 100%;
     display: flex;
     background-color: rgba(0, 0, 0, 0.852);
+
 }
+
 .footer-flex{
     display: flex;
-    margin-left: 720px;
+    margin-left: 0px;
 }
 .footer-1{
+    width: 40%;
     color: white;
-    margin-left: 20px;
-    margin-top: -20px;
+    margin-left: 0px;
+    margin-top: 40px;
 }
 .footer-image{
     background-color: white;
     margin: 5px;
     border-radius: 10px;
-    margin-: 0px;
+    margin: 0px;
 }
 
+.footer-icon{
+    margin-top: 40px;
+    padding: 10px;
+}
 
 .card-container {
-    padding-top: 10px;
+    width: 60%;
+    padding-top: 0px;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
 }
 
 .card {
     width: 30px;
-    padding: 10px;
+    padding: 15px;
 }
 
 .img1{
-    height: 20px;
+    height: 50px;
+    width: 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    border-radius: 50px;
 }
  
 
@@ -134,10 +148,12 @@ b{
 }
 
 .img2{
-    height: 20px;
+    height: 50px;
+    width: 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    border-radius: 50%;
 }
  
 .img2:hover{
@@ -146,8 +162,18 @@ b{
 }
 
 .img3{
-    height: 30px;
-    width: 30px;
+    height: 50px;
+    width: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 45%;
+}
+
+.img4{
+    background-color: white;
+    height: 50px;
+    width: 50px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
